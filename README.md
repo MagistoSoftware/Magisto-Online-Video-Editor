@@ -1,6 +1,6 @@
 # Magisto Full Version.
 -------------
-![alt-текст](https://i.imgur.com/e2CNho6.jpg)
+![alt-текст](https://i.imgur.com/YfAxWn9.jpg)
 # Closed version for Youtubers.
 ### 💻 Only for Windows 7/8/8.1/10
 #### Windows Tech Specs
