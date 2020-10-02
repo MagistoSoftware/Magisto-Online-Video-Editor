@@ -1,4 +1,4 @@
-# Luminar4 Full Versions
+# Magisto Full Version.
 -------------
 ![alt-текст](https://i.imgur.com/e2CNho6.jpg)
 # Closed version for Youtubers.
